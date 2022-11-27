@@ -16,4 +16,4 @@ I’ll cover the following topics data analysis:
 4. Data Visualization.
 5. Conclusion.
 
-Tableau Visualization on [Tableau.com](https://dub01.online.tableau.com/#/site/learn543/workbooks/1042383?:origin=card_share_link) or on [Github.com](https://github.com/kamillearn/World-Happiness-Report-2022-Data-Analysis-with-Python/blob/main/World%20Happiness%20Report%202022%20with%20Tableau.pdf)
+Tableau Visualization on [Tableau.com](https://public.tableau.com/app/profile/kamil.karim/viz/WorldHappinessReport2022_16695357343200/Dashboard1) or on [Github.com](https://github.com/kamillearn/World-Happiness-Report-2022-Data-Analysis-with-Python/blob/main/World%20Happiness%20Report%202022%20with%20Tableau.pdf)
